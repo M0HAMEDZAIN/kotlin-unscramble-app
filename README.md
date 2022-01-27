@@ -1,2 +1,18 @@
-I maked this project to pratice in View Model and Live data,
-with android basics in kotlin course at android developers.  
+Unscramble App
+===================================
+
+Starter code for Android Basics codelab - Store the data in a ViewModel
+
+Unscramble is  a single player game app that displays scrambled words. To play the game, player has
+to make a word using all the letters from the displayed scrambled word.
+
+Used in the [Android Basics with Kotlin](https://developer.android
+.com/courses/android-basics-kotlin/course) course.
+
+
+
+Getting Started
+---------------
+
+1. Download and run the app.
+
