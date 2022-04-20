@@ -16,3 +16,7 @@ Getting Started
 
 1. Download and run the app.
 
+**Images**
+<img src="https://user-images.githubusercontent.com/97167390/164259375-aa20dca2-6256-475f-ac1b-31d2755c574f.jpg" width="200" hight="150">
+
+
